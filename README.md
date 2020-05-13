@@ -1,4 +1,4 @@
-## About the course
+## QuickStart
 
 This repository is for use with the Pearson Publishing (Safari) live webinars:
 
@@ -34,5 +34,6 @@ $ pip install -r requirements.txt
 $ jupyter notebook Outline.ipynb
 ```
 
+## Intermediate NLP Kaggle Kernel -> https://www.kaggle.com/vivekin/intermediate-nlp-word-embeddings/edit
 
 * [Documentation of scikit-learn](https://scikit-learn.org/stable/documentation.html)
